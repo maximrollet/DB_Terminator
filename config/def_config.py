@@ -36,7 +36,7 @@ LOGGER = {'version': 1,
                   'level': 'DEBUG',
                   'class': 'logging.FileHandler',
                   'formatter': 'with_line',
-                  'filename': '/var/log/modCleaner/ConRoomCleaner.log',
+                  'filename': '/var/log/DB_Terminator/Terminator.log',
                   'encoding': 'utf8'
               }
           },
